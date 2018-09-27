@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'PTS_Reg';
+  font-weight: 200;
+  src: url('PTsansRegular.eot'); /* IE9 Compat Modes */
+  src: url('PTsansRegulard41d.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('PTsansRegular.woff') format('woff'), /* Modern Browsers */
+       url('PTsansRegular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('PTsansRegular.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'PTS_Bold';
+  src: url('PTsansBold.eot'); /* IE9 Compat Modes */
+  src: url('PTsansBoldd41d.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('PTsansBold.woff') format('woff'), /* Modern Browsers */
+       url('PTsansBold.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('PTsansBold.svg#svgFontName') format('svg'); /* Legacy iOS */
+}

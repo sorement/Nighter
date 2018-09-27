@@ -1,0 +1,39 @@
+body {
+    background-color: #150030;
+}
+
+#SoremLogo {
+    width: 175px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#CrewAnim {
+    width: 295px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#NormalTextC {
+    text-align: center;
+    color: white;
+}
+
+#TextBold {
+    font-family: "PTS_Bold";
+}
+
+#GameAnim {
+    width: 295px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#ComeSoonText {
+    text-align: center;
+    font-family: 'PTS_Reg';
+    color: white;
+}
